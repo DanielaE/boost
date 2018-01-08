@@ -546,3 +546,6 @@
 	path = libs/callable_traits
 	url = ../callable_traits.git
 	fetchRecurseSubmodules = on-demand
+[submodule "libs/sml"]
+	path = libs/sml
+	url = https://github.com/boost-experimental/sml
