@@ -562,3 +562,9 @@
 	path = libs/hof
 	url = ../hof.git
 	fetchRecurseSubmodules = on-demand
+[submodule "libs/sml"]
+	path = libs/sml
+	url = https://github.com/boost-experimental/sml
+[submodule "libs/outcome"]
+	path = libs/outcome
+	url = https://github.com/ned14/boost-outcome.git
